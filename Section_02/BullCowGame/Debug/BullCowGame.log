@@ -1,6 +1,5 @@
-﻿  FBullCowGame.cpp
+﻿  main.cpp
+  FBullCowGame.cpp
   Generating Code...
-  Skipping... (no relevant changes detected)
-  main.cpp
-  BullCowGame.vcxproj -> d:\UnrealProject\Section_02\Debug\BullCowGame.exe
-  BullCowGame.vcxproj -> d:\UnrealProject\Section_02\Debug\BullCowGame.pdb (Full PDB)
+  BullCowGame.vcxproj -> D:\UnrealProject\UE4Project\Section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> D:\UnrealProject\UE4Project\Section_02\Debug\BullCowGame.pdb (Full PDB)
